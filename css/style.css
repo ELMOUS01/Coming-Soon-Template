@@ -30,7 +30,7 @@ i {
 }
 
 a > i.social-icon:hover {
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+  text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
 }
 
 input:-webkit-autofill,
